@@ -1,4 +1,4 @@
-var wall_proxy = "SOCKS5 127.0.0.1:1080;";
+var wall_proxy = "SOCKS5 127.0.0.1:39666;";
 var nowall_proxy = "DIRECT;";
 var direct = "DIRECT;";
 var ip_proxy = "DIRECT;";
@@ -348,6 +348,8 @@ var white_domains = {
 "51kaowang":1,
 "kaoshidian":1,
 "koocdn":1,
+"nga":1,
+"178":1,
 "kybimg":1,
 "qtmojo":1,
 "atianqi":1,
